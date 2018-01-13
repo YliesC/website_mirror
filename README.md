@@ -4,9 +4,9 @@ Public site available at https://thegoldenkoala.com
 
 # Install
 
-1. Clone [the sources](https://github.com/YliesC/website.git)
+1. Clone [the sources](https://git.thegoldenkoala.com/ychahi/website.git)
 
-        git clone https://github.com/YliesC/website.git
+        git clone https://git.thegoldenkoala.com/ychahi/website.git
 
 3. Install python dependancies
 
